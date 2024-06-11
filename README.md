@@ -27,8 +27,8 @@ Here are some of the projects I have worked on:
 ## Skills
 
 - **Programming Languages:** Python, C++
-- **Robotics Frameworks:** ROS/ROS2 (Robot Operating System)
-- **Version Control:** Git, GitHub
+- **Robotics Frameworks:** ROS/ROS2 (Robot Operating System), Gazebo
+- **Version Control:** Git, GitHub, Gitlab
 - **Others:** Docker, MATLAB/Simulink
 
 ## Connect with Me
