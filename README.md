@@ -38,4 +38,4 @@ I'm always excited to collaborate and learn from others who share my passion for
 - 🐙 [GitHub](https://github.com/rimaturus)
 - 💼 [LinkedIn](https://www.linkedin.com/in/edoardo-caciorgna-b45b5b183/)
 
-- [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rimaturus){:target="_blank"}
+- [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rimaturus)
